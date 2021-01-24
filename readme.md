@@ -2,10 +2,10 @@
 ![Banner](manual/header_new.png)
 
 <p align="center">
-  <a href="https://discord.gg/gamGsfg">`Discord`</a> -
-  <a href="https://skiftos.org/">`Website`</a> -
-  <a href="https://github.com/skiftOS/skift/releases">`Releases`</a> -
-  <a href="manual/readme.md">`Manual`</a>
+  <a href="https://discord.gg/gamGsfg"><code>&lt;Discord&gt;</code></a> -
+  <a href="https://skiftos.org/">Website</a> -
+  <a href="https://github.com/skiftOS/skift/releases">Releases</a> -
+  <a href="manual/readme.md">Manual</a>
 </p>
 
 # skiftOS
