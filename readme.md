@@ -2,10 +2,10 @@
 ![Banner](manual/header_new.png)
 
 <p align="center">
-  <a href="https://discord.gg/gamGsfg">Discord</a> -
-  <a href="https://skiftos.org/">Website</a> -
-  <a href="https://github.com/skiftOS/skift/releases">Releases</a> -
-  <a href="manual/readme.md">Manual</a>
+  <a href="https://discord.gg/gamGsfg">`Discord`</a> -
+  <a href="https://skiftos.org/">`Website`</a> -
+  <a href="https://github.com/skiftOS/skift/releases">`Releases`</a> -
+  <a href="manual/readme.md">`Manual`</a>
 </p>
 
 # skiftOS
@@ -16,10 +16,9 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/skiftOS/skift)](https://github.com/skiftOS/skift/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/skiftOS/skift)](https://github.com/skiftOS/skift/pulls)
 
-```
- - **skiftOS** is a simple, handmade operating system for the x86 platform, aiming for clean and pretty APIs while keeping the spirit of UNIX.
+- **skiftOS** is a simple, handmade operating system for the x86 platform, aiming for clean and pretty APIs while keeping the spirit of UNIX.
  - **skiftOS** features an UNIX-like terminal experience with many familiar UNIX utilities.
- - **skiftOS** is constantly updated, for the latest release .img of skiftOS, click [here](https://github.com/skiftOS/skift/releases/latest).
+ - **skiftOS** is constantly updated, for the latest release `.img` of skiftOS, click [here](https://github.com/skiftOS/skift/releases/latest).
  - **skiftOS** is also pretty easy to build from source, just follow the [build guide](./manual/building.md).
  - **skiftOS** can function as a virtual machine, click [here](./manual/running_vm.md) to set up an instance on Virtual Box.
  - **skiftOS** is capable of running on real hardware.
@@ -27,7 +26,6 @@
  - **skiftOS** features a graphical user interface (GUI), with a compositor.
  - **skiftOS** includes many applications like an [Image Viewer](./apps/image-viewer), a [Text Editor](./apps/text-editor), a [Terminal Emulator](./apps/terminal), [etc](./apps)...
  - **skiftOS** can [run DOOM :rage3:](https://github.com/skiftOS/port-doom)
-```
 
 # Screenshots
 
